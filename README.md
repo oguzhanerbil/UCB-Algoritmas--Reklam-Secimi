@@ -13,3 +13,5 @@ UCB algoritması, çok-armed bandit problemleri gibi belirli türdeki problem se
 * Seçilen seçeneğin gerçek ödülü gözlemlenir. Bu ödül, algoritmanın o seçeneğin gerçek değeri hakkında daha iyi bir tahmin yapmasına yardımcı olur. Bu gözlemleme sonucunda, seçilen seçeneğin ortalama ödülü güncellenir.
 * Her aşamada, toplam deneme sayısı (t) bir artırılır. Bu sayede güven aralığı daralır ve algoritma daha fazla güvenilir tahminler yapabilir.
 * Belirli bir aşama sayısına veya belirli bir duruma ulaşılıncaya kadar adımlar tekrarlanır. Bu sayede algoritma zaman içinde en iyi performans gösteren seçeneklere odaklanabilir.
+
+![UCB SONUÇ](image.png)
