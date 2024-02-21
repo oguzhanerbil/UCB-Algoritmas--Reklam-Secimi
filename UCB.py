@@ -12,11 +12,10 @@ N = 10000 # 10000 reklam gösterimi
 d = 10 # toplam 10 ilan var
 # Ri(n)
 oduller = [0] * d # ilk başta bütün ilanların ödülü sıfır
-print(oduller)
 # Ni(n)
-tiklamalar = [0]*d # o ana kadarki tıklamalar
+tiklamalar = [0] * d # o ana kadarki tıklamalar
 toplam = 0 # toplam ödül
-secilenler = [1]
+secilenler = []
 for n in range(0,N):
     ad = 0 # seçilen ilan
     max_ucb = 0 
