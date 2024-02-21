@@ -1,0 +1,1 @@
+UCB (Upper Confidence Bound) algoritması, çok-armed bandit problemleri gibi belirli türdeki problem setleri için tasarlanmış bir öğrenme ve karar verme algoritmasıdır.
